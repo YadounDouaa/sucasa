@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background: url('img/bg.png');
+    height: all;
+}
+.header
+{
+    background:url('img/3.png') ;
+    border-bottom: antiquewhite;
+    height:95vh;
+   
+  
+}
+.navbar{
+    width: 100%;
+    padding: 20px;
+    margin-left: 500px;
+    position: fixed;
+    top: 0px;
+    transition: .5;
+  
+}
+
+.navbar ul li{
+
+    display: inline-block;
+    padding: 10px 50px;
+    color: #BE7033;
+    font-size: 20px;
+    font-family:Georgia, serif;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: .5s;
+}
+.navbar ul li:hover{
+    background-color: silver;
+    
+}
+.menu{
+    background: url('img/bg3.png');
+    height: 95vh;
+}
+.menu h1{
+    position: absolute;
+    margin-top: 60px;
+    margin-left:500px;
+    color: #954E20;
+    font-size: 35px;
+}
+.menus1{
+    position: absolute;
+    margin-top: 320px;
+    font-weight: bold;
+    margin-left: 290px;
+}
+.menus2{
+    position: absolute;
+    margin-top: 320px;
+    font-weight: bold;
+    margin-left: 640px;
+}
+.menus3{
+    position: absolute;
+    margin-top: 320px;
+    font-weight: bold;
+    margin-left: 1000px;
+}
+.menus4{
+    position: absolute;
+    margin-top: 460px;
+    font-weight: bold;
+    margin-left: 460px;
+}
+.menus5{
+    position: absolute;
+    margin-top: 460px;
+    font-weight: bold;
+    margin-left: 860px;
+}
+.hero-button
+{
+	display: inline-block;
+	text-decoration: none;
+	text-transform: uppercase;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px ;
+    padding-bottom: 10px;
+	border-radius: 800px;
+	font-weight: bold;
+    background:rgba(149, 78, 32,0.6);
+	color: #F7E6C3;
+	cursor: pointer;
+    border: bisque;
+    
+	margin-left: 1200px;
+	margin-bottom: 20px;;
+	margin-top: 570px;
+}
+.hero-button:hover
+{
+	background: #F7E6C3;
+	color:#954E20;
+	border:none; 
+
+}
+
+#booking h1{
+    margin-left: 550px ;
+    margin-top: 100px;
+    color: #954E20 ;
+}
+img#h{
+    height: 400px;
+    width: 800px;
+    margin-left: 30px;
+    margin-top: 50px;
+    border-radius:300px ;
+    padding-bottom: 30px;
+}
+img#ip{
+    height: 32px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+img#im{
+    height: 32px;
+    margin-top: 30px;
+   margin-left: 100px;
+    border-radius: 5px;
+}
+
+.info{
+    margin-top: 50px;
+    margin-left: 50px;;
+}
+.social{
+   margin-top: -50px;
+    margin-left:1050px ;
+    padding-bottom:50px; ;
+    
+}
