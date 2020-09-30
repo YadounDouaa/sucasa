@@ -124,12 +124,12 @@ img#h{
     padding-bottom: 30px;
 }
 img#ip{
-    height: 32px;
+    height: 25px;
     margin-top: 30px;
     margin-left: 100px;
 }
 img#im{
-    height: 32px;
+    height: 25px;
     margin-top: 30px;
    margin-left: 100px;
     border-radius: 5px;
@@ -140,8 +140,8 @@ img#im{
     margin-left: 50px;;
 }
 .social{
-   margin-top: -50px;
-    margin-left:1050px ;
+   margin-top: -150px;
+    margin-left:1030px ;
     padding-bottom:50px; ;
     
 }
