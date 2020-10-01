@@ -53,9 +53,10 @@ img#home{
 img#container{
     position: auto;
     width: 400px;
-    margin-top: 150px;
+    margin-top: 50px;
     margin-left: 450px;
-    margin-bottom: 90px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
 }
 
 .top-section{

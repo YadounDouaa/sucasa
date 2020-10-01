@@ -13,6 +13,7 @@ body{
     background:url('img/3.png') ;
     border-bottom: antiquewhite;
     height:95vh;
+    padding-bottom: 30px;
    
   
 }
@@ -47,7 +48,7 @@ body{
 }
 .menu h1{
     position: absolute;
-    margin-top: 60px;
+    margin-top: 30px;
     margin-left:500px;
     color: #954E20;
     font-size: 35px;
@@ -112,8 +113,9 @@ body{
 
 #booking h1{
     margin-left: 550px ;
-    margin-top: 100px;
+    margin-top: 50px;
     color: #954E20 ;
+    font-size: 35px;
 }
 img#h{
     height: 400px;
@@ -136,12 +138,41 @@ img#im{
 }
 
 .info{
-    margin-top: 50px;
+    margin-top: 30px;
     margin-left: 50px;;
 }
 .social{
-   margin-top: -150px;
-    margin-left:1030px ;
+   margin-top: -160px;
+    margin-left:1025px ;
     padding-bottom:50px; ;
     
+}
+#Hour{
+margin-top: 200px;
+}
+#Hour h1{
+    margin-left: 600px;
+    color: #954E20;
+    font-size: 35px;
+    padding-top: 50px;
+}
+#slc
+{
+    height: 450px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+#end h2{
+    font-size: 25px;
+    margin-left: 550px;
+    margin-top: 350px;
+    margin-bottom: 150px;
+    margin-right: 480px;
+    color: white;
+    padding-top: 15px;
+    padding-left: 45px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    background: rgb(0,0,0,0.6);
+    border-radius: 30px;
 }
