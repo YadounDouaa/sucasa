@@ -6,9 +6,9 @@
 
 body{
     background: url('img/bg.png');
-    height: all;
+    height: 60vh;
 }
-.header
+/*.header
 {
     background:url('img/3.png') ;
     border-bottom: antiquewhite;
@@ -16,40 +16,52 @@ body{
     padding-bottom: 30px;
    
   
-}
-.navbar{
+}*/
+.navbar a{
     width: 100%;
     padding: 20px;
     margin-left: 500px;
     position: fixed;
-    top: 0px;
+    margin-bottom: -150px;
     transition: .5;
-  
+    margin-top: -60px;
 }
 
-.navbar ul li{
+.navbar ul a {
 
     display: inline-block;
-    padding: 10px 50px;
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
     color: #BE7033;
     font-size: 20px;
     font-family:Georgia, serif;
     cursor: pointer;
     border-radius: 10px;
     transition: .5s;
+     
 }
-.navbar ul li:hover{
-    background-color: silver;
-    
+.navbar ul a:hover{
+    background-color: silver; 
+    width: auto ;   
+}
+#hed
+{
+    margin-top: 50px;
+    height: 80vh;
+
 }
 .menu{
     background: url('img/bg3.png');
     height: 95vh;
+    padding-bottom: 50px;
 }
 .menu h1{
-    position: absolute;
-    margin-top: 30px;
-    margin-left:500px;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 60px;
+    text-align: center;
     color: #954E20;
     font-size: 35px;
 }
@@ -101,7 +113,7 @@ body{
     
 	margin-left: 1200px;
 	margin-bottom: 20px;;
-	margin-top: 570px;
+	margin-top: 510px;
 }
 .hero-button:hover
 {
@@ -112,7 +124,8 @@ body{
 }
 
 #booking h1{
-    margin-left: 550px ;
+    padding-top: 40px;
+    text-align: center;
     margin-top: 50px;
     color: #954E20 ;
     font-size: 35px;
@@ -123,7 +136,7 @@ img#h{
     margin-left: 30px;
     margin-top: 50px;
     border-radius:300px ;
-    padding-bottom: 30px;
+    padding-bottom: 0px;
 }
 img#ip{
     height: 25px;
@@ -148,13 +161,13 @@ img#im{
     
 }
 #Hour{
-margin-top: 200px;
+margin-top: 150px;
 }
 #Hour h1{
-    margin-left: 600px;
+    text-align: center;
     color: #954E20;
     font-size: 35px;
-    padding-top: 50px;
+    padding-top: 30px;
 }
 #slc
 {
@@ -165,7 +178,7 @@ margin-top: 200px;
 #end h2{
     font-size: 25px;
     margin-left: 550px;
-    margin-top: 350px;
+    margin-top: 250px;
     margin-bottom: 150px;
     margin-right: 480px;
     color: white;
