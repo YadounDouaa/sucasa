@@ -7,11 +7,11 @@ This is a basic flutter project
 
 ## Screenshots:
 
-	<img src="Screen\home.PNG" style="margin: 10px">
-	<img src="Screen\MN.PNG" style="margin: 10px">
-	<img src="Screen\Capture.PNG" style="margin: 10px">
-	<img src="Screen\booking.PNG" style="margin: 10px">
-	<img src="Screen\Hour.PNG" style="margin: 10px">
+<img src="Screen\home.PNG" style="margin: 10px">
+<img src="Screen\MN.PNG" style="margin: 10px">
+<img src="Screen\Capture.PNG" style="margin: 10px">
+<img src="Screen\booking.PNG" style="margin: 10px">
+<img src="Screen\Hour.PNG" style="margin: 10px">
 
 
 ## Tools used:
